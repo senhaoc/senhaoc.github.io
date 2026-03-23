@@ -8,6 +8,8 @@ description: "Senhao (Simon) Cheng - M.S. student at University of Michigan, spe
 
 # Senhao (Simon) Cheng 🏂
 
+<div class="typewriter-wrap"><span class="typewriter-text" id="typewriter"></span><span class="typewriter-cursor">|</span></div>
+
 :::
 
 ::: {.columns}
@@ -38,9 +40,13 @@ I am a Master's student at **University of Michigan, Ann Arbor** (Class of 2026)
 
 My research interests broadly span **multimodal learning**, **vision-language understanding**, **reasoning and generation**, and **reinforcement learning for foundation models**. I am drawn to problems where different modalities (vision, language, structured knowledge) must be jointly understood, aligned, and reasoned over. My recent work explores latent visual reasoning in VLMs and sub-dimensional cross-modal retrieval — see my [publications](publications.html) for details.
 
-Beyond research, I am an adrenaline enthusiast — a **licensed skydiver (USPA A License)** and a passionate **snowboarder**.
+Beyond research, I am an adrenaline enthusiast — a **licensed skydiver (USPA A License)** and a passionate **snowboarder**. I'm also a proud pet parent to an **Australian Shepherd** and a **Maine Coon** — two of my favorite beings in the world.
+
+<div class="cta-banner">
 
 **I am actively seeking PhD positions and research assistant opportunities starting 2026–2027.**
+
+</div>
 
 ::: {.social-links}
 

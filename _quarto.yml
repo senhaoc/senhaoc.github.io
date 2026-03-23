@@ -26,3 +26,5 @@ format:
     css: styles.css
     toc: false
     page-layout: full
+    include-after-body:
+      text: '<script src="effects.js"></script>'
