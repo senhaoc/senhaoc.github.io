@@ -1,0 +1,41 @@
+---
+title: "Beyond Research"
+title-block-style: none
+---
+
+
+<div class="life-section">
+<div class="life-section-header">
+<span class="life-section-icon">🪂</span>
+<h2 class="life-section-title">Skydiving — USPA A License</h2>
+</div>
+<p class="life-text">I hold a <strong>USPA A License</strong> for solo skydiving. </p>
+</div>
+
+<div class="life-section">
+<div class="life-section-header">
+<span class="life-section-icon">🏂</span>
+<h2 class="life-section-title">Snowboarding</h2>
+</div>
+<p class="life-text">Snowboarding is my winter obsession. From carving groomers to exploring tree runs, I love the flow state that comes with reading terrain and reacting in real time.</p>
+<div class="media-grid-single">
+<video controls width="100%">
+<source src="photos/snowboard.MP4" type="video/mp4">
+</video>
+</div>
+
+<div class="life-section">
+<div class="life-section-header">
+<span class="life-section-icon">🐾</span>
+<h2 class="life-section-title">My Companions</h2>
+</div>
+<p class="life-text">Meet my two best friends: <strong>八戒 (Bobby)</strong> the Australian Shepherd and <strong>狗蛋儿 (Golden)</strong> the Maine Coon.</p>
+<div class="pet-wall">
+<img src="photos/pet_1.jpg" class="pet-photo" alt="Pet">
+<img src="photos/pet_2.jpg" class="pet-photo" alt="Pet">
+<img src="photos/pet_3.jpg" class="pet-photo" alt="Pet">
+<img src="photos/pet_4.jpg" class="pet-photo" alt="Pet">
+<img src="photos/pet_5.jpg" class="pet-photo" alt="Pet">
+<img src="photos/pet_6.jpg" class="pet-photo" alt="Pet">
+</div>
+</div>

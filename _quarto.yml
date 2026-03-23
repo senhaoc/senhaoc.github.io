@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Senhao (Simon) Cheng"
+  description: "Senhao Cheng - M.S. student at University of Michigan, specializing in Multimodal Reasoning, Vision-Language Models, and Reinforcement Learning for VLMs."
+  site-url: https://senhaocheng.github.io
+  favicon: "logos/umich.png"
+  open-graph: true
+  twitter-card: true
+  navbar:
+    logo: "logos/umich.png"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: publications.qmd
+        text: Publications
+      - href: life.qmd
+        text: Beyond Research
+
+format:
+  html:
+    theme:
+      light: flatly
+    css: styles.css
+    toc: false
+    page-layout: full

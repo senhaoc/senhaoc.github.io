@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "publications.html#preprints-under-review",
+    "href": "publications.html#preprints-under-review",
+    "title": "Publications",
+    "section": "Preprints & Under Review",
+    "text": "Preprints & Under Review\n\nDecompose, Look, and Reason: Reinforced Latent Reasoning for VLMs\n\n\n\n\nACL ARR 2026 Under Review\n\nMengdan Zhu, Senhao Cheng, Liang Zhao\nVision-Language Models often struggle with complex visual reasoning due to visual information loss in textual chain-of-thought. We propose DLR, a reinforced latent reasoning framework that dynamically decomposes queries into textual premises, extracts premise-conditioned continuous visual latents, and deduces answers through grounded rationales. We introduce a three-stage training pipeline and a novel Spherical Gaussian Latent Policy (SGLP) for effective exploration in the latent space. DLR outperforms strong baselines on four benchmarks (V* Bench 83.8%, MathVista 67.5%, MMMU-Pro 56.1%, MMStar 65.2%), surpassing GPT-4o.\nKey Contributions:\n\nPremise-conditioned latent reasoning with dynamic multi-step visual grounding\nSpherical Gaussian Latent Policy for RL exploration on hyperspherical manifold\nThree-stage pipeline: contrastive pretraining → SFT → reinforcement finetuning\n\n\n\n\n\n\nCross-modal RAG: Sub-dimensional Text-to-Image Retrieval-Augmented Generation\n\n\n\n\nACL ARR 2026 Under Review\n\nMengdan Zhu*, Senhao Cheng*, Guangji Bai, Yifei Zhang, Liang Zhao (*Equal Contribution)\n📄 arXiv 💻 Code\nExisting RAG methods retrieve globally relevant images but fail when no single image contains all desired elements. We propose Cross-modal RAG, which decomposes both queries and images into sub-dimensional components, enabling subquery-aware retrieval and generation. Our hybrid Pareto-optimal retriever achieves MS-COCO R@1 81.82% (prev. best 59.10%) and Flickr30K R@1 97.50%, with provable optimality guarantees.\nKey Contributions:\n\nSub-dimensional dense retriever with lightweight adaptor (0.01× CLIP’s GPU memory)\nMulti-objective Pareto-optimal image selection with theoretical guarantees\nModel-agnostic generation compatible with GPT-image-1 and Gemini-2.0-flash\n\n\n\n\n\n\nChemSafetyBench: Benchmarking LLM Safety on Chemistry Domain\n\n\n\n\nPreprint 2024\n\nHaochen Zhao*, Xiangru Tang*, Ziran Yang*, Xiao Han*, Xuanzhi Feng, Yueqing Fan, Senhao Cheng, Di Jin, Yilun Zhao, Arman Cohan, Mark Gerstein\n📄 arXiv 💻 Code\nA comprehensive benchmark with 30,000+ samples for evaluating LLM safety in chemistry, covering chemical properties, usage legality, and synthesis methods. Incorporates handcrafted templates and advanced jailbreaking scenarios (name-hacking, AutoDAN, CoT attacks) to assess LLM robustness, revealing critical safety vulnerabilities in state-of-the-art models."
+  },
+  {
+    "objectID": "publications.html#published",
+    "href": "publications.html#published",
+    "title": "Publications",
+    "section": "Published",
+    "text": "Published\n\nA Breast Cancer Detection Model Based on Modified ConvNeXt v2\n\n\n\n\nAIBDF 2023, ACM Published\n\nSenhao Cheng, Esther Sun, Wangzi Qian, Yang Han\n🔗 DOI\nModified ConvNeXt v2 architecture with Generalized-Mean Pooling and AdaBelief optimizer for mammography-based breast cancer classification, achieving pF1 improvements of 0.031–0.043 over ResNet50, GoogLeNet, and EfficientNet-B2."
+  },
+  {
+    "objectID": "life.html",
+    "href": "life.html",
+    "title": "Beyond Research",
+    "section": "",
+    "text": "🪂\n\nSkydiving — USPA A License\n\n\n\nI hold a USPA A License for solo skydiving.\n\n\n\n\n🏂\n\nSnowboarding\n\n\n\nSnowboarding is my winter obsession. From carving groomers to exploring tree runs, I love the flow state that comes with reading terrain and reacting in real time.\n\n\n\n\n\n\n\n\n🐾\n\nMy Companions\n\n\n\nMeet my two best friends: 八戒 (Bobby) the Australian Shepherd and 狗蛋儿 (Golden) the Maine Coon."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Home",
+    "section": "About Me",
+    "text": "About Me\n\nI am a Master’s student at University of Michigan, Ann Arbor (Class of 2026), majoring in Electrical and Computer Engineering. My academic journey began at Zhejiang University, where I earned a B.Eng. in Automation.\nMy research interests broadly span multimodal learning, vision-language understanding, reasoning and generation, and reinforcement learning for foundation models. I am drawn to problems where different modalities (vision, language, structured knowledge) must be jointly understood, aligned, and reasoned over. My recent work explores latent visual reasoning in VLMs and sub-dimensional cross-modal retrieval — see my publications for details.\nBeyond research, I am an adrenaline enthusiast — a licensed skydiver (USPA A License) and a passionate snowboarder.\nI am actively seeking PhD positions and research assistant opportunities starting 2026–2027."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Home",
+    "section": "Education",
+    "text": "Education\n\n\n\n\nUniversity of Michigan, Ann Arbor\nM.S. in Electrical and Computer Engineering | 📍 Ann Arbor, USA | 2024 – 2026\nFocus: Multimodal Reasoning, Vision-Language Models, RL for VLMs\n\n\n\n\n\nZhejiang University\nB.Eng. in Automation | 📍 Hangzhou, China | 2020 – 2024"
+  },
+  {
+    "objectID": "index.html#publications",
+    "href": "index.html#publications",
+    "title": "Home",
+    "section": "Publications",
+    "text": "Publications\n\n\n\n\n\nACL ARR 2026 Under Review\n\nDecompose, Look, and Reason: Reinforced Latent Reasoning for VLMs\nMengdan Zhu*, Senhao Cheng*, Liang Zhao(*Equal Contribution)\nLatent Visual Reasoning · Spherical Gaussian Policy · Multi-step VLM Reasoning · RL for VLMs\n\n\n\n\n\n\nACL ARR 2026 Under Review\n\nCross-modal RAG: Sub-dimensional Text-to-Image Retrieval-Augmented Generation\nMengdan Zhu*, Senhao Cheng*, Guangji Bai, Yifei Zhang, Liang Zhao | 🔗 arXiv | 💻 Code\nSub-dimensional Retrieval · Pareto-optimal Selection · Fine-grained T2I Generation\n\n\n\n\n\n\nPreprint 2024\n\nChemSafetyBench: Benchmarking LLM Safety on Chemistry Domain\nHaochen Zhao*, Xiangru Tang*, …, Senhao Cheng, …, Mark Gerstein | 🔗 arXiv | 💻 Code\nLLM Safety · Chemistry Domain · Adversarial Evaluation\n\n\n\n\n\n\nAIBDF 2023, ACM Published\n\nA Breast Cancer Detection Model Based on Modified ConvNeXt v2\nSenhao Cheng, Esther Sun, Wangzi Qian, Yang Han | 🔗 DOI\nMedical Imaging · ConvNeXt v2 · CAD"
+  },
+  {
+    "objectID": "index.html#professional-experience",
+    "href": "index.html#professional-experience",
+    "title": "Home",
+    "section": "Professional Experience",
+    "text": "Professional Experience\n\n\n\n\nAI & Data Analysis Intern — MindRank Ltd.\n📍 Hangzhou, China · Sep 2023 – Apr 2024\nKnowledge Graph · Biomedical Data · Drug Discovery · Predictive Modeling"
+  }
+]
