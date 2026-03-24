@@ -50,7 +50,7 @@ Beyond research, I am an adrenaline enthusiast — a **licensed skydiver (USPA A
 
 ::: {.social-links}
 
-[![](icon/google_scholar.png){.social-icon}](https://scholar.google.com){.social-link}
+[![](icon/google_scholar.png){.social-icon}](https://scholar.google.com/citations?user=74S5mFcAAAAJ&hl=zh-CN){.social-link}
 [![](icon/email.png){.social-icon}](mailto:senahoc@umich.edu){.social-link}
 
 :::
