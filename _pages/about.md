@@ -21,7 +21,7 @@ I am a Master's student at **University of Michigan, Ann Arbor** (Class of 2026)
 
 My research interests broadly span **multimodal learning**, **vision-language understanding**, **reasoning and generation**, and **reinforcement learning for foundation models**. I am drawn to problems where different modalities (vision, language, structured knowledge) must be jointly understood, aligned, and reasoned over. My recent work explores latent visual reasoning in VLMs and sub-dimensional cross-modal retrieval.
 
-Beyond research, I am an adrenaline enthusiast — a **licensed skydiver (USPA A License)** and a **CASI Level 2 certified snowboard instructor**. I also share my life with an **Australian Shepherd (八戒)** and a **Maine Coon (狗蛋儿)**.
+Beyond research, I am an adrenaline enthusiast — a **licensed skydiver (USPA A License)**, **CASI Level 2 snowboard instructor**, **PADI Advanced Open Water freediver**, and **IKO certified kitesurfer**. I also share my life with an **Australian Shepherd (八戒)** and a **Maine Coon (狗蛋儿)**.
 
 🔔 **I am actively seeking PhD positions and research assistant opportunities starting 2026–2027.** Feel free to reach out via [email](mailto:senahoc@umich.edu) or check my [CV](files/CV.pdf).
 
@@ -99,21 +99,4 @@ Haochen Zhao\*, Xiangru Tang\*, ..., **Senhao Cheng**, ..., Mark Gerstein
 - *2023.09 - 2024.04*, **AI & Data Analysis Intern**, MindRank Ltd., Hangzhou, China
   - Knowledge Graph construction, Biomedical Data analysis, Drug Discovery pipeline, Predictive Modeling
 
-# 🏂 Life
 
-I believe life outside the lab fuels creativity inside it.
-
-**Skydiving** — I hold a **USPA A License** for solo skydiving. There's nothing quite like the clarity of freefall at 13,000 feet.
-
-**Snowboarding** — I am a **CASI Level 2 certified snowboard instructor**. From carving groomers to exploring tree runs, I love the flow state that comes with reading terrain and reacting in real time.
-
-**My Companions** — **八戒 (Bobby)** the Australian Shepherd and **狗蛋儿 (Golden)** the Maine Coon — two of my favorite beings in the world.
-
-<div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-<img src="photos/pet_1.jpg" alt="Pet" style="height: 180px; border-radius: 8px; object-fit: cover;">
-<img src="photos/pet_2.jpg" alt="Pet" style="height: 180px; border-radius: 8px; object-fit: cover;">
-<img src="photos/pet_3.jpg" alt="Pet" style="height: 180px; border-radius: 8px; object-fit: cover;">
-<img src="photos/pet_4.jpg" alt="Pet" style="height: 180px; border-radius: 8px; object-fit: cover;">
-<img src="photos/pet_5.jpg" alt="Pet" style="height: 180px; border-radius: 8px; object-fit: cover;">
-<img src="photos/pet_6.jpg" alt="Pet" style="height: 180px; border-radius: 8px; object-fit: cover;">
-</div>
