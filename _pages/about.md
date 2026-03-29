@@ -26,7 +26,7 @@ Beyond research, I am an adrenaline enthusiast — a **licensed skydiver (USPA A
 🔔 **I am actively seeking PhD positions and research assistant opportunities starting 2026–2027.** Feel free to reach out via [email](mailto:senahoc@umich.edu) or check my [CV](files/CV.pdf).
 
 
-# Publications
+# 📝 Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL ARR 2026</div><img src='images/dlr.png' alt="DLR" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -88,18 +88,18 @@ Haochen Zhao\*, Xiangru Tang\*, ..., **Senhao Cheng**, ..., Mark Gerstein
 </div>
 </div>
 
-# Education
+# 📖 Education
 
 - *2024.08 - 2026.05*, **M.S. in Electrical and Computer Engineering**, University of Michigan, Ann Arbor
   - Focus: Multimodal Reasoning, Vision-Language Models, RL for VLMs
 - *2020.09 - 2024.06*, **B.Eng. in Automation**, Zhejiang University, Hangzhou, China
 
-# Internships
+# 💼 Internships
 
 - *2023.09 - 2024.04*, **AI & Data Analysis Intern**, MindRank Ltd., Hangzhou, China
   - Knowledge Graph construction, Biomedical Data analysis, Drug Discovery pipeline, Predictive Modeling
 
-# Life
+# 🏂 Life
 
 I believe life outside the lab fuels creativity inside it.
 
