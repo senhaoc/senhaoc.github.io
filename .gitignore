@@ -7,3 +7,4 @@ push.sh
 .bundle/
 vendor/
 *.HEIC
+Gemfile.lock
