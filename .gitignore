@@ -1,5 +1,9 @@
-/.quarto/
+_site/
+push.sh
 .DS_Store
-*.swp
-
-**/*.quarto_ipynb
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+.bundle/
+vendor/
+*.HEIC
