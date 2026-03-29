@@ -88,7 +88,7 @@ Haochen Zhao\*, Xiangru Tang\*, ..., **Senhao Cheng**, ..., Mark Gerstein
 </div>
 </div>
 
-# 📖 Education
+# Education
 
 - *2024.08 - 2026.05*, **M.S. in Electrical and Computer Engineering**, University of Michigan, Ann Arbor
   - Focus: Multimodal Reasoning, Vision-Language Models, RL for VLMs
@@ -99,7 +99,7 @@ Haochen Zhao\*, Xiangru Tang\*, ..., **Senhao Cheng**, ..., Mark Gerstein
 - *2023.09 - 2024.04*, **AI & Data Analysis Intern**, MindRank Ltd., Hangzhou, China
   - Knowledge Graph construction, Biomedical Data analysis, Drug Discovery pipeline, Predictive Modeling
 
-# Beyond Research
+# Life
 
 I believe life outside the lab fuels creativity inside it.
 
