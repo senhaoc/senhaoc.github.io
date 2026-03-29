@@ -5,6 +5,7 @@ push.sh
 .jekyll-cache/
 .jekyll-metadata
 .bundle/
-vendor/
+/vendor/
+!_sass/vendor/
 *.HEIC
 Gemfile.lock
