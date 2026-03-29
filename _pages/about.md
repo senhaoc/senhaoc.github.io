@@ -90,9 +90,9 @@ Haochen Zhao\*, Xiangru Tang\*, ..., **Senhao Cheng**, ..., Mark Gerstein
 
 # 📖 Education
 
-- *2024.08 - 2026.05*, **M.S. in Electrical and Computer Engineering**, University of Michigan, Ann Arbor
+- *2024 - 2026*, **M.S. in Electrical and Computer Engineering**, University of Michigan, Ann Arbor
   - Focus: Multimodal Reasoning, Vision-Language Models, RL for VLMs
-- *2020.09 - 2024.06*, **B.Eng. in Automation**, Zhejiang University, Hangzhou, China
+- *2020 - 2024*, **B.Eng. in Automation**, Zhejiang University, Hangzhou, China
 
 # 💼 Internships
 
