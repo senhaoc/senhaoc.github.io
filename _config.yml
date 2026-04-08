@@ -1,5 +1,5 @@
 # Site Settings
-title                    : "Senhao (Simon) Cheng"
+title                    : "Senhao (Simon) Cheng(程森浩)"
 description              : 
 repository               : "senhaoc/senhaoc.github.io"
 google_scholar_stats_use_cdn : false
@@ -14,7 +14,7 @@ baidu_site_verification  :
 
 # Site Author
 author:
-  name             : "Senhao (Simon) Cheng"
+  name             : "Senhao (Simon) Cheng(程森浩)"
   avatar           : "images/profile.jpg"
   bio              : "M.S. @ University of Michigan"
   location         : "Ann Arbor, MI"

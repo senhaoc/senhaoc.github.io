@@ -1,12 +1,12 @@
 ---
 title: "Home"
 title-block-style: none
-description: "Senhao (Simon) Cheng - M.S. student at University of Michigan, specializing in Multimodal Reasoning, Vision-Language Models, and Reinforcement Learning for VLMs."
+description: "Senhao (Simon) Cheng · 程森浩 — M.S. student at University of Michigan, specializing in Multimodal Reasoning, Vision-Language Models, and Reinforcement Learning for VLMs."
 ---
 
 ::: {.name-header}
 
-# Senhao (Simon) Cheng
+# Senhao (Simon) Cheng · 程森浩
 
 <div class="typewriter-wrap"><span class="typewriter-text" id="typewriter"></span><span class="typewriter-cursor">|</span></div>
 
