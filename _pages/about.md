@@ -1,7 +1,8 @@
 ---
 permalink: /
 title: ""
-excerpt: ""
+description: "Senhao (Simon) Cheng (程森浩) — M.S. student at University of Michigan, specializing in Multimodal Reasoning, Vision-Language Models, and Reinforcement Learning for VLMs."
+excerpt: "Senhao (Simon) Cheng (程森浩) — M.S. student at University of Michigan, specializing in Multimodal Reasoning, Vision-Language Models, and Reinforcement Learning for VLMs."
 author_profile: true
 redirect_from: 
   - /about/

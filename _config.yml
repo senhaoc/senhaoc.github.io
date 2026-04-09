@@ -14,7 +14,8 @@ baidu_site_verification  :
 
 # Site Author
 author:
-  name             : "Senhao (Simon) Cheng(程森浩)"
+  name             : "Senhao (Simon) Cheng"
+  name_cn          : "程森浩"
   avatar           : "images/profile.jpg"
   bio              : "M.S. @ University of Michigan"
   location         : "Ann Arbor, MI"
