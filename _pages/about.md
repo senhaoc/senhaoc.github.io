@@ -22,7 +22,7 @@ I am a first-year Ph.D. student at the **Harbin Institute of Technology, Shenzhe
 
 My research interests include **multimodal learning**, **vision-language understanding**, **reasoning and generation**, and **reinforcement learning for foundation models**. My recent work focuses on latent visual reasoning in vision-language models and sub-dimensional cross-modal retrieval.
 
-I enjoy adventure sports. I hold a **USPA A License** and am a **CASI Level 2 snowboard instructor**, a **PADI Advanced Freediver**, and an **IKO-certified kitesurfer**. I also spend plenty of time with Bajie (八戒), **Australian Shepherd**, and Golden (狗蛋儿), **Maine Coon**.
+I hold a **USPA A License** and am a **CASI Level 2 snowboard instructor**, a **PADI Advanced Freediver**, and an **IKO-certified kitesurfer**. I also spend plenty of time with Bajie (八戒), **Australian Shepherd**, and Golden (狗蛋儿), **Maine Coon**.
 
 
 # 📝 Publications
