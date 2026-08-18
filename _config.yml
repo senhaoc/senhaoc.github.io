@@ -17,7 +17,7 @@ author:
   name             : "Senhao (Simon) Cheng"
   name_cn          : "程森浩"
   avatar           : "images/profile.jpg"
-  bio              : "Ph.D. Student @ HIT Shenzhen \n M.S. @ University of Michigan \n B.Eng. @ Zhejiang University"
+  bio              : "<span style='display:block;'>Ph.D. Student @ HIT Shenzhen</span><span style='display:block;'>M.S. @ University of Michigan</span><span style='display:block;'>B.Eng. @ Zhejiang University</span>"
   location         : "Shenzhen, China"
   employer         :
   pubmed           : 
