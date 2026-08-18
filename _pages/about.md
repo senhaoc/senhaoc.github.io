@@ -1,8 +1,8 @@
 ---
 permalink: /
 title: ""
-description: "Senhao (Simon) Cheng (程森浩) — M.S. student at University of Michigan, specializing in Multimodal Reasoning, Vision-Language Models, and Reinforcement Learning for VLMs."
-excerpt: "Senhao (Simon) Cheng (程森浩) — M.S. student at University of Michigan, specializing in Multimodal Reasoning, Vision-Language Models, and Reinforcement Learning for VLMs."
+description: "Senhao (Simon) Cheng (程森浩) — Ph.D. student at Harbin Institute of Technology, Shenzhen, working on multimodal reasoning, vision-language models, and reinforcement learning."
+excerpt: "Senhao (Simon) Cheng (程森浩) — Ph.D. student at Harbin Institute of Technology, Shenzhen, working on multimodal reasoning, vision-language models, and reinforcement learning."
 author_profile: true
 redirect_from: 
   - /about/
@@ -18,13 +18,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Master's student at **University of Michigan, Ann Arbor** (Class of 2026), majoring in Electrical and Computer Engineering. My academic journey began at **Zhejiang University**, where I earned a B.Eng. in Automation.
+I am a first-year Ph.D. student at the **Harbin Institute of Technology, Shenzhen**, advised by **Prof. Fangyuan Zhang**. I received my master's degree in Electrical and Computer Engineering from the **University of Michigan, Ann Arbor**, and my B.Eng. in Automation from **Zhejiang University**.
 
-My research interests broadly span **multimodal learning**, **vision-language understanding**, **reasoning and generation**, and **reinforcement learning for foundation models**. I am drawn to problems where different modalities (vision, language, structured knowledge) must be jointly understood, aligned, and reasoned over. My recent work explores latent visual reasoning in VLMs and sub-dimensional cross-modal retrieval.
+My research interests include **multimodal learning**, **vision-language understanding**, **reasoning and generation**, and **reinforcement learning for foundation models**. My recent work focuses on latent visual reasoning in vision-language models and sub-dimensional cross-modal retrieval.
 
-Beyond research, I am an adrenaline enthusiast — a **licensed skydiver (USPA A License)**, **CASI Level 2 snowboard instructor**, **PADI Advanced Open Water freediver**, and **IKO certified kitesurfer**. I also share my life with an **Australian Shepherd (八戒)** and a **Maine Coon (狗蛋儿)**.
-
-🔔 **I am actively seeking PhD positions and research assistant opportunities starting 2026–2027.** Feel free to reach out via [email](mailto:senahoc@umich.edu) or check my [CV](files/CV.pdf).
+Outside of research, I enjoy skydiving and snowboarding. I hold a **USPA A License** and share my home with an **Australian Shepherd** and a **Maine Coon**.
 
 
 # 📝 Publications

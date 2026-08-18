@@ -1,7 +1,7 @@
 ---
 title: "Home"
 title-block-style: none
-description: "Senhao (Simon) Cheng · 程森浩 — M.S. student at University of Michigan, specializing in Multimodal Reasoning, Vision-Language Models, and Reinforcement Learning for VLMs."
+description: "Senhao (Simon) Cheng · 程森浩 — Ph.D. student at Harbin Institute of Technology, Shenzhen, working on multimodal reasoning, vision-language models, and reinforcement learning."
 ---
 
 ::: {.name-header}
@@ -36,17 +36,11 @@ description: "Senhao (Simon) Cheng · 程森浩 — M.S. student at University o
 
 ::: {.about-text}
 
-I am a Master's student at **University of Michigan, Ann Arbor** (Class of 2026), majoring in Electrical and Computer Engineering. My academic journey began at **Zhejiang University**, where I earned a B.Eng. in Automation.
+I am a first-year Ph.D. student at the **Harbin Institute of Technology, Shenzhen**, advised by **Prof. Fangyuan Zhang**. I received my master's degree in Electrical and Computer Engineering from the **University of Michigan, Ann Arbor**, and my B.Eng. in Automation from **Zhejiang University**.
 
-My research interests broadly span **multimodal learning**, **vision-language understanding**, **reasoning and generation**, and **reinforcement learning for foundation models**. I am drawn to problems where different modalities (vision, language, structured knowledge) must be jointly understood, aligned, and reasoned over. My recent work explores latent visual reasoning in VLMs and sub-dimensional cross-modal retrieval — see my [publications](publications.html) for details.
+My research interests include **multimodal learning**, **vision-language understanding**, **reasoning and generation**, and **reinforcement learning for foundation models**. My recent work focuses on latent visual reasoning in vision-language models and sub-dimensional cross-modal retrieval. More details are available on my [publications page](publications.html).
 
-Beyond research, I am an adrenaline enthusiast — a **licensed skydiver (USPA A License)** and a passionate **snowboarder**. I'm also a proud pet parent to an **Australian Shepherd** and a **Maine Coon** — two of my favorite beings in the world.
-
-<div class="cta-banner">
-
-**I am actively seeking PhD positions and research assistant opportunities starting 2026–2027.**
-
-</div>
+Outside of research, I enjoy skydiving and snowboarding. I hold a **USPA A License** and share my home with an **Australian Shepherd** and a **Maine Coon**.
 
 ::: {.social-links}
 
