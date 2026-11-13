@@ -1,7 +1,7 @@
 ---
 title: "Home"
 title-block-style: none
-description: "Senhao (Simon) Cheng · 程森浩 — Ph.D. student at Harbin Institute of Technology, Shenzhen, working on multimodal reasoning, vision-language models, and reinforcement learning."
+description: "Senhao (Simon) Cheng · 程森浩 is a Ph.D. student at Harbin Institute of Technology, Shenzhen, working on multimodal learning, vision-language models, and reinforcement learning."
 ---
 
 ::: {.name-header}
@@ -36,11 +36,11 @@ description: "Senhao (Simon) Cheng · 程森浩 — Ph.D. student at Harbin Inst
 
 ::: {.about-text}
 
-I am a first-year Ph.D. student at the **Harbin Institute of Technology, Shenzhen**, advised by **Prof. Fangyuan Zhang**. I received my master's degree in Electrical and Computer Engineering from the **University of Michigan, Ann Arbor**, and my B.Eng. in Automation from **Zhejiang University**.
+I am a first-year Ph.D. student at the **Harbin Institute of Technology, Shenzhen**, advised by **Prof. Fangyuan Zhang**. Before that, I earned an M.S. in Electrical and Computer Engineering from the **University of Michigan, Ann Arbor** and a B.Eng. in Automation from **Zhejiang University**.
 
-My research interests include **multimodal learning**, **vision-language understanding**, **reasoning and generation**, and **reinforcement learning for foundation models**. My recent work focuses on latent visual reasoning in vision-language models and sub-dimensional cross-modal retrieval. More details are available on my [publications page](publications.html).
+I work on **multimodal learning** and **vision-language models**, with a particular interest in reasoning, generation, and reinforcement learning. My recent research looks at latent visual reasoning and sub-dimensional cross-modal retrieval. More details are available on my [publications page](publications.html).
 
-Outside of research, I enjoy adventure sports. I hold a **USPA A License** and am a **CASI Level 2 snowboard instructor**, a **PADI Advanced Freediver**, and an **IKO-certified kitesurfer**. I also spend plenty of time with Bajie (八戒), my **Australian Shepherd**, and Goudan'er (狗蛋儿), my **Maine Coon**.
+Outside the lab, I enjoy skydiving, snowboarding, freediving, and kitesurfing. I hold a **USPA A License** and am a **CASI Level 2 snowboard instructor**, a **PADI Advanced Freediver**, and an **IKO-certified kitesurfer**. At home, I have an **Australian Shepherd** named Bajie (八戒) and a **Maine Coon** named Goudan'er (狗蛋儿).
 
 ::: {.social-links}
 
@@ -104,13 +104,13 @@ B.Eng. in Automation | 📍 Hangzhou, China | 2020 – 2024
 
 ::: {.pub-tags}
 
-[ACL ARR 2026]{.venue .venue-acl} [Under Review]{.status .status-review}
+[EMNLP 2026 Main]{.venue .venue-acl} [Accepted]{.status .status-accepted}
 
 :::
 
-[**Decompose, Look, and Reason: Reinforced Latent Reasoning for VLMs**](publications.html#dlr)
+[**Decompose, Look, and Reason: Reinforced Latent Reasoning for VLMs**](https://arxiv.org/abs/2604.07518)
 
-Mengdan Zhu\*, **Senhao Cheng**\*, Liang Zhao(\*Equal Contribution)
+Mengdan Zhu\*, **Senhao Cheng**\*, Liang Zhao(\*Equal Contribution) | [🔗 arXiv](https://arxiv.org/abs/2604.07518)
 
 [Latent Visual Reasoning]{.keyword} · [Spherical Gaussian Policy]{.keyword} · [Multi-step VLM Reasoning]{.keyword} · [RL for VLMs]{.keyword}
 
@@ -127,7 +127,7 @@ Mengdan Zhu\*, **Senhao Cheng**\*, Liang Zhao(\*Equal Contribution)
 
 ::: {.pub-tags}
 
-[ACL ARR 2026]{.venue .venue-acl} [Under Review]{.status .status-review}
+[EACL 2027 Findings]{.venue .venue-acl} [Accepted]{.status .status-accepted}
 
 :::
 

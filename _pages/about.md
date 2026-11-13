@@ -1,8 +1,8 @@
 ---
 permalink: /
 title: ""
-description: "Senhao (Simon) Cheng (程森浩) — Ph.D. student at Harbin Institute of Technology, Shenzhen, working on multimodal reasoning, vision-language models, and reinforcement learning."
-excerpt: "Senhao (Simon) Cheng (程森浩) — Ph.D. student at Harbin Institute of Technology, Shenzhen, working on multimodal reasoning, vision-language models, and reinforcement learning."
+description: "Senhao (Simon) Cheng (程森浩) is a Ph.D. student at Harbin Institute of Technology, Shenzhen, working on multimodal learning, vision-language models, and reinforcement learning."
+excerpt: "Senhao (Simon) Cheng (程森浩) is a Ph.D. student at Harbin Institute of Technology, Shenzhen, working on multimodal learning, vision-language models, and reinforcement learning."
 author_profile: true
 redirect_from: 
   - /about/
@@ -18,23 +18,23 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a first-year Ph.D. student at the **Harbin Institute of Technology, Shenzhen**, advised by **Prof. Fangyuan Zhang**. I received my master's degree in Electrical and Computer Engineering from the **University of Michigan, Ann Arbor**, and my B.Eng. in Automation from **Zhejiang University**.
+I am a first-year Ph.D. student at the **Harbin Institute of Technology, Shenzhen**, advised by **Prof. Fangyuan Zhang**. Before that, I earned an M.S. in Electrical and Computer Engineering from the **University of Michigan, Ann Arbor** and a B.Eng. in Automation from **Zhejiang University**.
 
-My research interests include **multimodal learning**, **vision-language understanding**, **reasoning and generation**, and **reinforcement learning for foundation models**. My recent work focuses on latent visual reasoning in vision-language models and sub-dimensional cross-modal retrieval.
+I work on **multimodal learning** and **vision-language models**, with a particular interest in reasoning, generation, and reinforcement learning. My recent research looks at latent visual reasoning and sub-dimensional cross-modal retrieval.
 
-I hold a **USPA A License** and am a **CASI Level 2 snowboard instructor**, a **PADI Advanced Freediver**, and an **IKO-certified kitesurfer**. I also spend plenty of time with Bajie (八戒), **Australian Shepherd**, and Golden (狗蛋儿), **Maine Coon**.
+Outside the lab, I enjoy skydiving, snowboarding, freediving, and kitesurfing. I hold a **USPA A License** and am a **CASI Level 2 snowboard instructor**, a **PADI Advanced Freediver**, and an **IKO-certified kitesurfer**. At home, I have an **Australian Shepherd** named Bajie (八戒) and a **Maine Coon** named Goudan'er (狗蛋儿).
 
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL ARR 2026</div><img src='images/dlr.png' alt="DLR" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026 Main</div><img src='images/dlr.png' alt="DLR" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Decompose, Look, and Reason: Reinforced Latent Reasoning for VLMs](publications.html#dlr)
+[Decompose, Look, and Reason: Reinforced Latent Reasoning for VLMs](https://arxiv.org/abs/2604.07518)
 
 Mengdan Zhu\*, **Senhao Cheng**\*, Liang Zhao (\*Equal Contribution)
 
-**Under Review at ACL ARR 2026**
+**Accepted to EMNLP 2026 (Main Conference)** \| [arXiv](https://arxiv.org/abs/2604.07518)
 
 - Premise-conditioned latent reasoning with dynamic multi-step visual grounding
 - Spherical Gaussian Latent Policy for RL exploration on hyperspherical manifold
@@ -43,14 +43,14 @@ Mengdan Zhu\*, **Senhao Cheng**\*, Liang Zhao (\*Equal Contribution)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL ARR 2026</div><img src='images/crossmodal_rag.png' alt="Cross-modal RAG" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EACL 2027 Findings</div><img src='images/crossmodal_rag.png' alt="Cross-modal RAG" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Cross-modal RAG: Sub-dimensional Text-to-Image Retrieval-Augmented Generation](https://arxiv.org/abs/2505.21956)
 
 Mengdan Zhu\*, **Senhao Cheng**\*, Guangji Bai, Yifei Zhang, Liang Zhao (\*Equal Contribution)
 
-**Under Review at ACL ARR 2026** \| [arXiv](https://arxiv.org/abs/2505.21956) \| [Code](https://github.com/mengdanzhu/Cross-modal-RAG)
+**Accepted to Findings of EACL 2027** \| [arXiv](https://arxiv.org/abs/2505.21956) \| [Code](https://github.com/mengdanzhu/Cross-modal-RAG)
 
 - Sub-dimensional dense retriever with lightweight adaptor (0.01× CLIP's GPU memory)
 - Multi-objective Pareto-optimal image selection with theoretical guarantees
