@@ -100,6 +100,48 @@ Haochen Zhao, Xiangru Tang, ..., **Senhao Cheng**, ..., Mark Gerstein
 - *2023.09 - 2024.04*, **AI & Data Analysis Intern**, MindRank Ltd., Hangzhou, China
   - Knowledge Graph construction, Biomedical Data analysis, Drug Discovery pipeline, Predictive Modeling
 
-<div style="width:300px; margin:2em auto 0;">
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=M0hZnymEZ1MpTZi6F8Wfm3ZJX6qPdo3fHOaZ2wQAZbE&cl=ffffff&w=a"></script>
+<style>
+.visitor-map {
+  margin: 2.5em auto 0;
+  text-align: center;
+}
+.visitor-map h2 {
+  margin-bottom: 0.25em;
+}
+.visitor-map__summary {
+  margin: 0.4em 0 0;
+  color: #666;
+  font-size: 0.9em;
+}
+</style>
+
+<div class="visitor-map" aria-labelledby="visitor-map-title">
+  <h2 id="visitor-map-title">Global Visitors</h2>
+  <div id="visitor-globe" aria-label="All-time visitor locations"></div>
+  <p id="visitor-map-summary" class="visitor-map__summary">Loading all-time traffic…</p>
+  <script
+    src="https://unpkg.com/umami-maps@0.1.0/dist/embed.global.js"
+    data-endpoint="https://umami-senhaoc.vercel.app/api/visitor-globe"
+    data-target="#visitor-globe"
+    data-size="280"
+    data-caption="false"
+  ></script>
+  <script>
+  (() => {
+    const summary = document.getElementById('visitor-map-summary');
+    const endpoint = 'https://umami-senhaoc.vercel.app/api/visitor-globe';
+
+    fetch(endpoint)
+      .then(response => response.ok ? response.json() : Promise.reject())
+      .then(data => {
+        const pageviews = Number(data.totalPageviews || 0).toLocaleString();
+        const visitors = Number(data.totalVisitors || 0).toLocaleString();
+        const countries = Number(data.totalCountries || 0).toLocaleString();
+        summary.textContent = `${pageviews} page views · ${visitors} visitors from ${countries} countries · all time`;
+      })
+      .catch(() => {
+        summary.textContent = 'All-time visitor statistics are temporarily unavailable.';
+      });
+  })();
+  </script>
 </div>
