@@ -119,29 +119,36 @@ Haochen Zhao, Xiangru Tang, ..., **Senhao Cheng**, ..., Mark Gerstein
   <h2 id="visitor-map-title">Global Visitors</h2>
   <div id="visitor-globe" aria-label="All-time visitor locations"></div>
   <p id="visitor-map-summary" class="visitor-map__summary">Loading all-time traffic…</p>
+  <script>
+    window.__receiveVisitorGlobe = data => {
+      window.__visitorGlobeData = data;
+    };
+  </script>
+  <script src="https://umami-senhaoc.vercel.app/api/visitor-globe?callback=__receiveVisitorGlobe"></script>
   <script
     src="https://unpkg.com/umami-maps@0.1.0/dist/embed.global.js"
-    data-endpoint="https://umami-senhaoc.vercel.app/api/visitor-globe"
-    data-target="#visitor-globe"
-    data-size="280"
-    data-caption="false"
+    data-target="#visitor-globe-disabled"
   ></script>
   <script>
   (() => {
     const summary = document.getElementById('visitor-map-summary');
-    const endpoint = 'https://umami-senhaoc.vercel.app/api/visitor-globe';
+    const data = window.__visitorGlobeData;
 
-    fetch(endpoint)
-      .then(response => response.ok ? response.json() : Promise.reject())
-      .then(data => {
-        const pageviews = Number(data.totalPageviews || 0).toLocaleString();
-        const visitors = Number(data.totalVisitors || 0).toLocaleString();
-        const countries = Number(data.totalCountries || 0).toLocaleString();
-        summary.textContent = `${pageviews} page views · ${visitors} visitors from ${countries} countries · all time`;
-      })
-      .catch(() => {
-        summary.textContent = 'All-time visitor statistics are temporarily unavailable.';
-      });
+    if (!data || !window.UmamiMaps) {
+      summary.textContent = 'All-time visitor statistics are temporarily unavailable.';
+      return;
+    }
+
+    window.UmamiMaps.renderUmamiGlobe(document.getElementById('visitor-globe'), {
+      data,
+      size: 280,
+      caption: false,
+    });
+
+    const pageviews = Number(data.totalPageviews || 0).toLocaleString();
+    const visitors = Number(data.totalVisitors || 0).toLocaleString();
+    const countries = Number(data.totalCountries || 0).toLocaleString();
+    summary.textContent = `${pageviews} page views · ${visitors} visitors from ${countries} countries · all time`;
   })();
   </script>
 </div>
