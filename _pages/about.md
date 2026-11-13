@@ -124,7 +124,7 @@ Haochen Zhao, Xiangru Tang, ..., **Senhao Cheng**, ..., Mark Gerstein
       window.__visitorGlobeData = data;
     };
   </script>
-  <script src="https://umami-senhaoc.vercel.app/api/visitor-globe?callback=__receiveVisitorGlobe"></script>
+  <script src="https://umami-senhaoc.vercel.app/api/visitor-globe?callback=__receiveVisitorGlobe&amp;v=1"></script>
   <script
     src="https://unpkg.com/umami-maps@0.1.0/dist/embed.global.js"
     data-target="#visitor-globe-disabled"
