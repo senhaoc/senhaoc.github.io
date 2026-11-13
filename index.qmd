@@ -1,7 +1,7 @@
 ---
 title: "Home"
 title-block-style: none
-description: "Senhao (Simon) Cheng · 程森浩 is a Ph.D. student at Harbin Institute of Technology, Shenzhen, working on multimodal learning, vision-language models, and reinforcement learning."
+description: "Senhao (Simon) Cheng · 程森浩 is a Ph.D. student at Harbin Institute of Technology, Shenzhen, working on AI agents, agentic reasoning, and multimodal interaction."
 ---
 
 ::: {.name-header}
@@ -38,7 +38,7 @@ description: "Senhao (Simon) Cheng · 程森浩 is a Ph.D. student at Harbin Ins
 
 I am a first-year Ph.D. student at the **Harbin Institute of Technology, Shenzhen**, advised by **Prof. Fangyuan Zhang**. Before that, I earned an M.S. in Electrical and Computer Engineering from the **University of Michigan, Ann Arbor** and a B.Eng. in Automation from **Zhejiang University**.
 
-I work on **multimodal learning** and **vision-language models**, with a particular interest in reasoning, generation, and reinforcement learning. My recent research looks at latent visual reasoning and sub-dimensional cross-modal retrieval. More details are available on my [publications page](publications.html).
+My research focuses on **AI agents**, especially how language-model agents reason, plan, use tools, and learn from interaction. I am also interested in **agent memory**, **multimodal agents**, and **human-agent collaboration**, with an emphasis on building agents that remain reliable on long-horizon, real-world tasks. More details are available on my [publications page](publications.html).
 
 Outside the lab, I enjoy skydiving, snowboarding, freediving, and kitesurfing. I hold a **USPA A License** and am a **CASI Level 2 snowboard instructor**, a **PADI Advanced Freediver**, and an **IKO-certified kitesurfer**. At home, I have an **Australian Shepherd** named Bajie (八戒) and a **Maine Coon** named Goudan'er (狗蛋儿).
 
@@ -58,6 +58,20 @@ Outside the lab, I enjoy skydiving, snowboarding, freediving, and kitesurfing. I
 ## Education
 
 ::: {.education-container}
+
+::: {.education-item}
+
+::: {.edu-info}
+
+**Harbin Institute of Technology, Shenzhen**
+
+Ph.D. Student | 📍 Shenzhen, China | 2026 – Present
+
+Advisor: Prof. Fangyuan Zhang
+
+:::
+
+:::
 
 ::: {.education-item}
 
@@ -110,7 +124,7 @@ B.Eng. in Automation | 📍 Hangzhou, China | 2020 – 2024
 
 [**Decompose, Look, and Reason: Reinforced Latent Reasoning for VLMs**](https://arxiv.org/abs/2604.07518)
 
-Mengdan Zhu\*, **Senhao Cheng**\*, Liang Zhao(\*Equal Contribution) | [🔗 arXiv](https://arxiv.org/abs/2604.07518)
+Mengdan Zhu, **Senhao Cheng**, Liang Zhao | [🔗 arXiv](https://arxiv.org/abs/2604.07518)
 
 [Latent Visual Reasoning]{.keyword} · [Spherical Gaussian Policy]{.keyword} · [Multi-step VLM Reasoning]{.keyword} · [RL for VLMs]{.keyword}
 
@@ -133,7 +147,7 @@ Mengdan Zhu\*, **Senhao Cheng**\*, Liang Zhao(\*Equal Contribution) | [🔗 arXi
 
 [**Cross-modal RAG: Sub-dimensional Text-to-Image Retrieval-Augmented Generation**](publications.html#crossmodal-rag)
 
-Mengdan Zhu\*, **Senhao Cheng**\*, Guangji Bai, Yifei Zhang, Liang Zhao | [🔗 arXiv](https://arxiv.org/abs/2505.21956) | [💻 Code](https://github.com/mengdanzhu/Cross-modal-RAG)
+Mengdan Zhu, **Senhao Cheng**, Guangji Bai, Yifei Zhang, Liang Zhao | [🔗 arXiv](https://arxiv.org/abs/2505.21956) | [💻 Code](https://github.com/mengdanzhu/Cross-modal-RAG)
 
 [Sub-dimensional Retrieval]{.keyword} · [Pareto-optimal Selection]{.keyword} · [Fine-grained T2I Generation]{.keyword}
 
@@ -156,7 +170,7 @@ Mengdan Zhu\*, **Senhao Cheng**\*, Guangji Bai, Yifei Zhang, Liang Zhao | [🔗 
 
 [**ChemSafetyBench: Benchmarking LLM Safety on Chemistry Domain**](publications.html#chemsafety)
 
-Haochen Zhao\*, Xiangru Tang\*, ..., **Senhao Cheng**, ..., Mark Gerstein | [🔗 arXiv](https://arxiv.org/abs/2411.16736) | [💻 Code](https://github.com/HaochenZhao/SafeAgent4Chem)
+Haochen Zhao, Xiangru Tang, ..., **Senhao Cheng**, ..., Mark Gerstein | [🔗 arXiv](https://arxiv.org/abs/2411.16736) | [💻 Code](https://github.com/HaochenZhao/SafeAgent4Chem)
 
 [LLM Safety]{.keyword} · [Chemistry Domain]{.keyword} · [Adversarial Evaluation]{.keyword}
 

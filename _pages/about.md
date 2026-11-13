@@ -1,8 +1,8 @@
 ---
 permalink: /
 title: ""
-description: "Senhao (Simon) Cheng (程森浩) is a Ph.D. student at Harbin Institute of Technology, Shenzhen, working on multimodal learning, vision-language models, and reinforcement learning."
-excerpt: "Senhao (Simon) Cheng (程森浩) is a Ph.D. student at Harbin Institute of Technology, Shenzhen, working on multimodal learning, vision-language models, and reinforcement learning."
+description: "Senhao (Simon) Cheng (程森浩) is a Ph.D. student at Harbin Institute of Technology, Shenzhen, working on AI agents, agentic reasoning, and multimodal interaction."
+excerpt: "Senhao (Simon) Cheng (程森浩) is a Ph.D. student at Harbin Institute of Technology, Shenzhen, working on AI agents, agentic reasoning, and multimodal interaction."
 author_profile: true
 redirect_from: 
   - /about/
@@ -20,7 +20,7 @@ redirect_from:
 
 I am a first-year Ph.D. student at the **Harbin Institute of Technology, Shenzhen**, advised by **Prof. Fangyuan Zhang**. Before that, I earned an M.S. in Electrical and Computer Engineering from the **University of Michigan, Ann Arbor** and a B.Eng. in Automation from **Zhejiang University**.
 
-I work on **multimodal learning** and **vision-language models**, with a particular interest in reasoning, generation, and reinforcement learning. My recent research looks at latent visual reasoning and sub-dimensional cross-modal retrieval.
+My research focuses on **AI agents**, especially how language-model agents reason, plan, use tools, and learn from interaction. I am also interested in **agent memory**, **multimodal agents**, and **human-agent collaboration**, with an emphasis on building agents that remain reliable on long-horizon, real-world tasks.
 
 Outside the lab, I enjoy skydiving, snowboarding, freediving, and kitesurfing. I hold a **USPA A License** and am a **CASI Level 2 snowboard instructor**, a **PADI Advanced Freediver**, and an **IKO-certified kitesurfer**. At home, I have an **Australian Shepherd** named Bajie (八戒) and a **Maine Coon** named Goudan'er (狗蛋儿).
 
@@ -32,7 +32,7 @@ Outside the lab, I enjoy skydiving, snowboarding, freediving, and kitesurfing. I
 
 [Decompose, Look, and Reason: Reinforced Latent Reasoning for VLMs](https://arxiv.org/abs/2604.07518)
 
-Mengdan Zhu\*, **Senhao Cheng**\*, Liang Zhao (\*Equal Contribution)
+Mengdan Zhu, **Senhao Cheng**, Liang Zhao
 
 **Accepted to EMNLP 2026 (Main Conference)** \| [arXiv](https://arxiv.org/abs/2604.07518)
 
@@ -48,7 +48,7 @@ Mengdan Zhu\*, **Senhao Cheng**\*, Liang Zhao (\*Equal Contribution)
 
 [Cross-modal RAG: Sub-dimensional Text-to-Image Retrieval-Augmented Generation](https://arxiv.org/abs/2505.21956)
 
-Mengdan Zhu\*, **Senhao Cheng**\*, Guangji Bai, Yifei Zhang, Liang Zhao (\*Equal Contribution)
+Mengdan Zhu, **Senhao Cheng**, Guangji Bai, Yifei Zhang, Liang Zhao
 
 **Accepted to Findings of EACL 2027** \| [arXiv](https://arxiv.org/abs/2505.21956) \| [Code](https://github.com/mengdanzhu/Cross-modal-RAG)
 
@@ -63,7 +63,7 @@ Mengdan Zhu\*, **Senhao Cheng**\*, Guangji Bai, Yifei Zhang, Liang Zhao (\*Equal
 
 [ChemSafetyBench: Benchmarking LLM Safety on Chemistry Domain](https://arxiv.org/abs/2411.16736)
 
-Haochen Zhao\*, Xiangru Tang\*, ..., **Senhao Cheng**, ..., Mark Gerstein
+Haochen Zhao, Xiangru Tang, ..., **Senhao Cheng**, ..., Mark Gerstein
 
 [arXiv](https://arxiv.org/abs/2411.16736) \| [Code](https://github.com/HaochenZhao/SafeAgent4Chem)
 
@@ -89,6 +89,8 @@ Haochen Zhao\*, Xiangru Tang\*, ..., **Senhao Cheng**, ..., Mark Gerstein
 
 # 📖 Education
 
+- *2026 - Present*, **Ph.D. Student**, Harbin Institute of Technology, Shenzhen
+  - Advisor: Prof. Fangyuan Zhang
 - *2024 - 2026*, **M.S. in Electrical and Computer Engineering**, University of Michigan, Ann Arbor
   - Focus: Multimodal Reasoning, Vision-Language Models, RL for VLMs
 - *2020 - 2024*, **B.Eng. in Automation**, Zhejiang University, Hangzhou, China
