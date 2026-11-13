@@ -124,7 +124,7 @@ Haochen Zhao, Xiangru Tang, ..., **Senhao Cheng**, ..., Mark Gerstein
       window.__visitorGlobeData = data;
     };
   </script>
-  <script src="https://umami-senhaoc.vercel.app/api/visitor-globe?callback=__receiveVisitorGlobe&amp;v=2"></script>
+  <script src="https://umami-senhaoc.vercel.app/api/visitor-globe?callback=__receiveVisitorGlobe&amp;v=3"></script>
   <script
     src="https://unpkg.com/umami-maps@0.1.0/dist/embed.global.js"
     data-target="#visitor-globe-disabled"
@@ -148,7 +148,7 @@ Haochen Zhao, Xiangru Tang, ..., **Senhao Cheng**, ..., Mark Gerstein
     const pageviews = Number(data.totalPageviews || 0).toLocaleString();
     const visitors = Number(data.totalVisitors || 0).toLocaleString();
     const countries = Number(data.totalCountries || 0).toLocaleString();
-    summary.textContent = `${pageviews} page views · ${visitors} visitors from ${countries} countries · all time`;
+    summary.textContent = `${pageviews} page views · ${visitors} visitors from ${countries} countries · since Mar 29, 2026`;
   })();
   </script>
 </div>
